@@ -3,7 +3,7 @@ import { Button, Col } from "react-bootstrap";
 
 const BookingDetails = () => {
   return (
-    <Col md={4} className="mt-5">
+    <Col md={4} className="mt-5 text-center">
       <h5>Teeth Orthodontics</h5>
       <h6>8:00 - 9:00 Am</h6>
       <p>10 SPACES AVAILABLE</p>
